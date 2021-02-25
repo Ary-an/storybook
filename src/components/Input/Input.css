@@ -1,0 +1,20 @@
+.input {
+  outline: none;
+  border-radius: 20px;
+  border: 2px solid #444;
+}
+
+.small {
+  padding: 6px 12px;
+  font-size: 12px;
+}
+
+.medium {
+  padding: 8px 16px;
+  font-size: 18px;
+}
+
+.large {
+  padding: 12px 20px;
+  font-size: 24px;
+}
